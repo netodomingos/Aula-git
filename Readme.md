@@ -30,3 +30,13 @@ git branch ( Checa as branchs )
 ##### git checkout 
 
 git checkout -b nomeDaBranch ( troca a branch )
+
+##### Git remote
+
+git remote add linkDoRpositório 
+
+git remote -v ( ver os repotórios remotos )
+
+##### git push
+
+git push -u origin master
