@@ -6,3 +6,5 @@ git init
 git status
 nano Readme.md
 
+git add .
+git commit -m "Primero Commit"
