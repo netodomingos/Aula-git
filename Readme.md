@@ -8,3 +8,7 @@ nano Readme.md
 
 git add .
 git commit -m "Primero Commit"
+
+touch nomeDoArquivo -> cria arquivo
+
+git reset HEAD (nome do arquivo que voce quer retornar)
