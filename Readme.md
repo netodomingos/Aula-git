@@ -15,3 +15,6 @@ git reset HEAD (nome do arquivo que voce quer retornar)
 
 git diff nomeDoArquivo (Mostra a diferenca entre o ulimo arquivo commitado e o ultimo arquivo não comitado)
 
+git branch ( Checa as branchs )
+
+git checkout -b nomeDaBranch ( troca a branch )
